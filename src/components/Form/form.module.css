@@ -26,18 +26,16 @@
   
   .input:hover,
   input:focus {
-    box-shadow: 0 0 6px 2px rgb(28 146 224 / 50%);
     border: 1px solid rgba(4, 0, 255, 0.9);
     outline: none;
   }
   
   .button {
     width: fit-content;
-    background-color: white;
+    background-color: rgb(2, 170, 2);
     border: 0.5px solid black;
     border-radius: 4px;
     height: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
   
   .button:hover {
